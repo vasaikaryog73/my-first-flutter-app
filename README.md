@@ -1,6 +1,6 @@
 Implementation of CRUD Operations in Flutter using Supabase.
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter Logo" height="40" /> &nbsp;&nbsp;&nbsp; <img src="https://supabase.com/dashboard/img/supabase-logo.svg" alt="Supabase Logo" height="90" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" alt="Flutter Logo" height="90" /> &nbsp;&nbsp;&nbsp; <img src="https://supabase.com/dashboard/img/supabase-logo.svg" alt="Supabase Logo" height="90" />
 
 Reference Image:
 
